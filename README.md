@@ -19,8 +19,8 @@ The project uses **reqres.in** as a fake REST API for demonstration purposes.
 ## ⚡️ **Getting Started**
 
 1️⃣ **Clone the Repository**
-git clone https://github.com/your-username/user-management-system.git
-cd user-management-system
+git clone https://github.com/Lakshya2303/EmployWise-Assignment.git
+cd EmployeWise-Assignment
 2️⃣ **Install Dependencies**
 npm install
 3️⃣ Run the Application
